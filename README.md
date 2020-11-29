@@ -1,5 +1,4 @@
 # PythonSocketServer
-#
 server.py, client.py файлы с исходным кодом сервера и клиента соответсвтенно
 Для запуска приложения требуется скачать дополнительно базу данных binlist-data.csv https://github.com/iannuttall/binlist-data и поместить ее в папку проекта.
 Далее запускаем server.exe, затем client.exe  
