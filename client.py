@@ -17,7 +17,6 @@ def client_conn():
     sock.connect(('localhost', 8080))
     while True:
         if not interaction(input(), sock):
-            sock.close()
             break
 
 client_conn()
